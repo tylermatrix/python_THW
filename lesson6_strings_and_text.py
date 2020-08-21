@@ -1,6 +1,8 @@
+#assign 10 to "types_of_people"
 types_of_people = 10
+#assign interpolated string to x
 x = f"There are{types_of_people} types of people"
-
+#assign "binary"
 binary = "binary"
 do_not = "don't"
 y = f"Those who know {binary} and those who {do_not}"
